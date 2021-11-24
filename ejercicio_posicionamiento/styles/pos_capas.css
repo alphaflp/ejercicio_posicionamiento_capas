@@ -1,0 +1,23 @@
+#d1 {
+   left: 130px;
+}
+.d2 {
+
+    left: 250px;
+}
+#d2 {
+
+    left: 370px;
+}
+.d3 {
+
+    left: 490px;
+}
+div {
+    width: 100px;
+    height: 100px;
+    background-color: cyan;
+    border: solid black;
+    position: absolute;
+    top: 10px;
+}
